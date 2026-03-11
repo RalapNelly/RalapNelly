@@ -1,0 +1,12 @@
+{
+  "name": "secret-speech",
+  "version": "1.0.0",
+  "description": "员工真心话收集系统",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "vercel": "^32.0.0"
+  }
+}
